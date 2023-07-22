@@ -1,0 +1,10 @@
+# Ignorar la carpeta vendor
+/vendor
+
+# Ignorar los archivos composer.json y composer.lock
+composer.json
+composer.lock
+
+# Ignorar los archivos config.php y conn.php
+config.php
+conn.php
